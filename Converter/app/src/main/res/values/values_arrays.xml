@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distance_array">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Decimeter</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Picometer</item>
+        <item>Inch</item>
+        <item>Feet</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>Square Centimeter</item>
+        <item>Square Meter</item>
+        <item>Square Kilometer</item>
+        <item>Square Inch</item>
+        <item>Square Feet</item>
+        <item>Square Mile</item>
+        <item>Acre</item>
+        <item>Decare</item>
+        <item>Hectare</item>
+        <item>Square Yard</item>
+    </string-array>
+    <string-array name="temperature_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Milligram</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Ton</item>
+        <item>Pound</item>
+        <item>Stone</item>
+        <item>Ounce</item>
+    </string-array>
+</resources>
